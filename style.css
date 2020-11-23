@@ -1,0 +1,17 @@
+.BSObox{
+    display: flex;
+    font-size: 50px;
+
+}
+.BSObtn{
+    font-size:20px;
+}
+#BallIndicator{
+    color:green;
+}
+#StrikeIndicator{
+    color:yellow;
+}
+#OutIndicator{
+    color:red;
+}
